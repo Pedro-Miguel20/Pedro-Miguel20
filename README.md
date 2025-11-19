@@ -1,11 +1,7 @@
 <div align="center">
-
 # 👋 Olá, eu sou **Pedro Miguel**
 
 ### 🚀 Desenvolvedor em evolução • Aprendendo **React** e construindo projetos incríveis
-
-💡 Apaixonado por tecnologia, UI/UX, e tudo que envolve criação digital  
-📚 Sempre aprendendo algo novo — no momento focado em **React + Tailwind + Supabase**
 
 ---
 
@@ -42,29 +38,5 @@
     alt="GitHub Streak"
   />
 </a>
-
----
-
-## 🧩 Minhas Skills Atuais
-
-✔️ Lógica de programação  
-✔️ JavaScript moderno (ES6+)  
-✔️ React Hooks & Componentização  
-✔️ TailwindCSS (Design Clean + Responsivo)  
-✔️ Integração com Supabase  
-
----
-
-## 🎯 Objetivos de 2025
-
-- Aprimorar React (Context, Zustand, otimizações)
-- Aprender Next.js
-- Melhorar UI/UX com animações profissionais (Framer Motion)
-- Publicar projetos completos com backend
-
----
-
-✨ _Obrigado por visitar meu perfil!_  
-💬 **Sempre aberto a conexões e colaboração.**
 
 </div>
