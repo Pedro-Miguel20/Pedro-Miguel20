@@ -1,7 +1,3 @@
-### ✍️ Fábio Akita
-![Não terceirize suas decisões.](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-
 # 💫 About Me:
 🔭 I’m currently working on react projects<br>🌱 I’m currently learning next.js<br>⚡ Fun fact: use arrays.
 
