@@ -1,43 +1,20 @@
-<div align="center">
+### ✍️ Fábio Akita
+![Não terceirize suas decisões.](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-# 👋 Olá, eu sou **Pedro Miguel**
 
-### 🚀 Desenvolvedor em evolução • Aprendendo **React** e construindo projetos incríveis
----
+# 💫 About Me:
+🔭 I’m currently working on react projects<br>🌱 I’m currently learning next.js<br>⚡ Fun fact: use arrays.
 
-## 🛠️ Tecnologias e Ferramentas
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,tailwind,html,css,vscode,supabase" height="48" />
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-miguel-aguiar-09544b238) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Pedro-Miguel-the-solid) 
 
----
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Pedro-Miguel20&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Pedro-Miguel20&theme=codeSTACKr&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Miguel20&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 📊 Estatísticas
 
-<a href="https://github.com/Pedro-Miguel20">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Pedro-Miguel20&show_icons=true&count_private=true&hide_title=true&theme=tokyonight&bg_color=00000000"
-    height="170"
-    alt="GitHub Stats"
-  />
-</a>
-
-<a href="https://github.com/Pedro-Miguel20">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Pedro-Miguel20&theme=tokyonight&hide_border=true&background=00000000"
-    height="170"
-    alt="GitHub Streak"
-  />
-</a>
-
----
-## 🌐 Redes Sociais
-
-<a href="https://github.com/Pedro-Miguel20" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/>
-</a>
-
----
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
