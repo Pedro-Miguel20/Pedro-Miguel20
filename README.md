@@ -1,25 +1,139 @@
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-
 <div align="center">
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
+# 👋 Hey, I'm Pedro Miguel
 
-<img src="https://github-readme-stats.shion.dev/api?username=Pedro-Miguel20&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+### 💻 Computer Engineering Student · Backend & Full-Stack Developer
 
-<img src="https://streak-stats.demolab.com/?user=Pedro-Miguel20&theme=dark&hide_border=false" />
+<p>
+  Building web applications, APIs and data-driven systems.
+</p>
 
-</div>
-
-<br>
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Pedro-Miguel20&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+<p>
+  <a href="https://github.com/Pedro-Miguel20">
+    <img src="https://komarev.com/ghpvc/?username=Pedro-Miguel20&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+  <a href="https://github.com/Pedro-Miguel20?tab=followers">
+    <img src="https://img.shields.io/github/followers/Pedro-Miguel20?label=Followers&style=flat" />
+  </a>
+</p>
 
 </div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Pedro-Miguel20&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+I'm a **Computer Engineering student** interested in software development, backend architecture and geospatial/data processing.
+
+I enjoy building systems that combine **APIs, databases, web applications and data processing pipelines**.
+
+Currently focusing on:
+
+- 🐍 Python & FastAPI
+- 🗄️ PostgreSQL & SQLAlchemy
+- ⚡ Backend architecture & APIs
+- ⚛️ React / Next.js
+- 🐳 Docker & development tooling
+- 🛰️ Geospatial and satellite data processing
+
+---
+
+# 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+### ⚛️ Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
+
+### ⚙️ Backend & Database
+
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Alembic-2E7D32?style=for-the-badge&logo=alembic&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+</p>
+
+### 🔧 Tools & DevOps
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-181717?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<table>
+<tr>
+
+<td>
+<img src="https://github-readme-stats.shion.dev/api?username=Pedro-Miguel20&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+</td>
+
+<td>
+<img src="https://streak-stats.demolab.com/?user=Pedro-Miguel20&theme=dark&hide_border=true" />
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="2" align="center">
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Pedro-Miguel20&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 📌 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Pedro-Miguel20">
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=Pedro-Miguel20&repo=MyFirstBackend&theme=dark&hide_border=true" />
+</a>
+
+</div>
+
+---
+
+# 🎯 Currently Learning
+
+```text
+Python / FastAPI
+        ↓
+SQLAlchemy / PostgreSQL
+        ↓
+Backend Architecture
+        ↓
+Docker / CI/CD
+        ↓
+Full-Stack Applications
