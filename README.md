@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Pedro Miguel
 
-### 💻 Computer Engineering Student · Backend & Full-Stack Developer
+### 💻 Computer Engineering Student · Full-Stack Developer
 
 <p>
   Building web applications, APIs and data-driven systems.
@@ -75,7 +75,6 @@ Currently focusing on:
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/GitLab-181717?style=for-the-badge&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
@@ -108,18 +107,6 @@ Currently focusing on:
 
 </tr>
 </table>
-
-</div>
-
----
-
-# 📌 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Pedro-Miguel20">
-  <img src="https://github-readme-stats.shion.dev/api/pin/?username=Pedro-Miguel20&repo=MyFirstBackend&theme=dark&hide_border=true" />
-</a>
 
 </div>
 
